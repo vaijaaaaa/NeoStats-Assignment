@@ -1,0 +1,58 @@
+Resume Guidelines for Placement (1 Page Preferred)
+
+Golden Rules
+- Keep it one page for fresher roles.
+- Use strong action verbs: built, implemented, optimized, designed.
+- Add measurable impact: reduced latency by 20%, improved accuracy by 8%.
+- Tailor keywords to role description.
+- Avoid generic lines like "hardworking" without evidence.
+
+Section Order (Recommended)
+1. Name + contact + links (GitHub, LinkedIn, portfolio)
+2. Education
+3. Skills
+4. Projects
+5. Experience / Internship
+6. Achievements / Certifications
+
+Project Bullet Formula
+Action + Tech + Problem + Impact
+Example:
+- Built a Streamlit-based placement prep assistant using RAG (FAISS + sentence-transformers) and Groq LLM API, reducing answer latency for common queries by ~30% through cached indexing.
+
+Common Resume Mistakes
+- Too many tools listed without proof in projects.
+- No metrics in project/experience bullets.
+- Poor formatting and inconsistent tense.
+- Writing paragraphs instead of concise bullets.
+
+Editable Resume Profile (Replace with Your Details)
+Name: Your Name
+Email: your.email@example.com
+Phone: +91-XXXXXXXXXX
+LinkedIn: linkedin.com/in/yourprofile
+GitHub: github.com/yourhandle
+
+Education
+- B.Tech in Computer Science, Your College, 2022-2026, CGPA: 8.5/10
+
+Skills
+- Languages: Python, Java, C++
+- Core: DSA, OOP, DBMS, OS, CN
+- Tools/Frameworks: Streamlit, Git, FAISS, Sentence-Transformers
+
+Projects
+- Placement Preparation AI Assistant
+	- Built a chatbot with RAG over local documents and web-search fallback.
+	- Integrated Groq API and prompt modes (concise/detailed) for adaptive responses.
+
+- Expense Tracker Web App
+	- Developed CRUD-based tracker with authentication and dashboard analytics.
+
+Experience
+- Software Intern, Company Name (May 2025 - Jul 2025)
+	- Implemented API endpoint optimizations and improved response time by 18%.
+
+Achievements
+- Solved 400+ DSA problems on LeetCode/GFG.
+- Finalist in inter-college hackathon (Top 10 among 250 teams).

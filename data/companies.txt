@@ -1,0 +1,52 @@
+Company-Wise Placement Preparation Notes
+
+General Pattern (Most Product Companies)
+Round 1: Online Assessment (DSA + MCQs)
+Round 2: Technical Interview 1 (problem solving + coding)
+Round 3: Technical Interview 2 (LLD, projects, CS fundamentals)
+Round 4: Hiring Manager / Behavioral
+
+1) Google (Typical)
+- Strong emphasis on DSA and communication.
+- Focus areas: arrays, graphs, trees, DP, recursion/backtracking.
+- Expect clear thought process and trade-off discussion.
+- Behavioral: collaboration, ownership, learning mindset.
+
+2) Amazon (Typical)
+- DSA + system thinking for experienced roles.
+- Leadership Principles are very important.
+- Prepare STAR stories for: ownership, customer obsession, conflict resolution.
+
+3) Microsoft (Typical)
+- DSA fundamentals + problem-solving clarity.
+- OOP, DBMS, OS basics asked often.
+- Project deep-dive can be significant.
+
+4) Atlassian / Uber / Similar Product Firms
+- Medium-hard DSA.
+- Practical engineering focus: code quality, edge case handling, testing.
+- Sometimes includes machine coding or LLD discussion.
+
+Core CS Topics to Revise (for all companies)
+- OS: process vs thread, deadlock, scheduling basics.
+- DBMS: normalization, indexing, ACID, joins.
+- CN: TCP vs UDP, HTTP basics, DNS, latency concepts.
+- OOP: encapsulation, inheritance, polymorphism, abstraction.
+
+Behavioral Interview Framework (STAR)
+- S: Situation
+- T: Task
+- A: Action
+- R: Result (quantify impact if possible)
+
+Last 2 Weeks Plan
+- Day 1-7: DSA (2-3 questions/day) + 1 CS topic/day
+- Day 8-10: Company-specific patterns + OA mock tests
+- Day 11-12: Resume/project storytelling practice
+- Day 13-14: Mock interviews + revision of weak topics
+
+Interview Day Checklist
+- Explain approach first, then code.
+- Think out loud and ask clarifying questions.
+- Handle edge cases proactively.
+- If stuck: discuss brute-force and optimization path.

@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python cache / build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Model/cache artifacts
+.cache/
+
+# Streamlit local state
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

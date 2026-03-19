@@ -1,0 +1,78 @@
+DSA Quick Revision Notes for Placements
+
+1) Arrays
+- Access by index: O(1)
+- Search (unsorted): O(n)
+- Insert/Delete at end (amortized): O(1)
+- Insert/Delete at middle/start: O(n)
+
+2) Strings
+- Immutable in Python and Java.
+- Common interview tasks: anagram check, palindrome, substring, frequency count.
+- Sliding window is often used for substring problems.
+
+3) Hashing
+- Hash map average operations: O(1).
+- Great for frequency counting, two-sum type lookups, de-duplication.
+- Watch out for collisions and worst case O(n).
+
+4) Two Pointers
+- Useful for sorted arrays, palindrome, pair sum, removing duplicates.
+- Usually O(n), better than nested loops O(n^2).
+
+5) Sliding Window
+- Fixed-size window: max sum of size k.
+- Variable-size window: longest substring with constraints.
+- Keep track of window state with map/counters.
+
+6) Binary Search
+- Works on sorted search space.
+- Time complexity O(log n).
+- Pattern: low, high, mid and shrink range.
+- Can be used on answers too (binary search on answer).
+
+7) Stack
+- LIFO, operations O(1).
+- Used in next greater element, valid parentheses, monotonic stack problems.
+
+8) Queue / Deque
+- FIFO queue for BFS.
+- Deque for sliding window maximum.
+
+9) Linked List
+- Fast insert/delete with node pointer.
+- Slow random access.
+- Common tasks: reverse list, detect cycle (Floyd), merge two lists.
+
+10) Trees
+- DFS (preorder/inorder/postorder), BFS (level order).
+- BST: left < root < right.
+- Tree interview basics: height, diameter, lowest common ancestor.
+
+11) Graphs
+- Representation: adjacency list.
+- BFS for shortest path in unweighted graph.
+- DFS for components/cycle detection/topological sort (DAG).
+
+12) Dynamic Programming (DP)
+- Use when there are overlapping subproblems + optimal substructure.
+- Steps: define state, transition, base case, order of computation.
+- Start with recursion + memoization, then convert to tabulation.
+
+Common Interview Strategy
+- Clarify constraints and edge cases first.
+- Start with brute force, then optimize.
+- State time and space complexity clearly.
+- Test with small custom examples before final answer.
+
+Top 10 Must-Practice Problems
+- Two Sum
+- Valid Parentheses
+- Best Time to Buy and Sell Stock
+- Maximum Subarray
+- Merge Intervals
+- Product of Array Except Self
+- Binary Search in Sorted Array
+- Number of Islands
+- Longest Substring Without Repeating Characters
+- Climbing Stairs (DP)
